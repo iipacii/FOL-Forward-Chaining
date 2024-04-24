@@ -1,0 +1,3 @@
+Query: NeedsHelp('Bob'); Answer: True
+Query: ReceivesHelpOn('QuadraticEquations'); Answer: True
+Query: Passes('QuadraticEquations'); Answer: False

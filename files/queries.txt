@@ -1,0 +1,3 @@
+NeedsHelp('Bob')
+ReceivesHelpOn('QuadraticEquations')
+Passes('QuadraticEquations')
